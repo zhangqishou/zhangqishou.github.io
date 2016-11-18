@@ -4,6 +4,12 @@
   
     
     <entry>
+      <title><![CDATA[about]]></title>
+      <url>http://yoursite.com/2016/11/18/about/</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[日志分析]]></title>
       <url>http://yoursite.com/2016/11/18/%E6%97%A5%E5%BF%97%E5%88%86%E6%9E%90/</url>
       <content type="html"><![CDATA[<p>我们日常应用中都离不开日志。可以说日志是我们在排查问题的一个重要依据。但是日志并不是写了就好了，当你想查看日志的时候，你会发现线上日志堆积的长度已经超越了你一行行浏览的耐性的极限了。于是，很有必要通过一些手段来高效地辅助你来快速的从日志中找到你要找的问题。本文通过一个从项目中衍生出来的例子从查找日志，筛选日志和统计日志3个方面层层递进来简述日志文件查看中一些有用的手段。（注：在linux环境下）</p>
