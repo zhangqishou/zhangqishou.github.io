@@ -87,7 +87,8 @@
     <entry>
       <title><![CDATA[Hello World]]></title>
       <url>http://zhangqishou.com/2016/11/18/hello-world/</url>
-      <content type="html"><![CDATA[<h1 id="Hello-world"><a href="#Hello-world" class="headerlink" title="Hello world !"></a>Hello world !</h1>]]></content>
+      <content type="html"><![CDATA[<figure class="highlight php"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="meta">&lt;?php</span></div><div class="line">    <span class="keyword">echo</span> <span class="string">&apos;hello word !&apos;</span>;</div><div class="line"><span class="meta">?&gt;</span></div></pre></td></tr></table></figure>
+]]></content>
     </entry>
     
   
